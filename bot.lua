@@ -7,7 +7,7 @@ HTTPS = require('ssl.https')
 ----config----
 local bot_api_key = "213335360:AAGkBrQodv95cJpIOfeq58xbDSQ0QpQHn90"
 local BASE_URL = "https://api.telegram.org/bot"..bot_api_key
-local BASE_FOLDER = "/home/amir2727/files/"
+local BASE_FOLDER = ""
 -------
 
 ----utilites----
